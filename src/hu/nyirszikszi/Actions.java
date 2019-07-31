@@ -127,7 +127,7 @@ class Actions {
             }
         }
         else {
-            result.append("\n\tÉrvénytelen napot adatott adott meg a 3. feladatban!");
+            result.append("\n\tÉrvénytelen napot adott meg a 3. feladatban!");
         }
 
         return result;
